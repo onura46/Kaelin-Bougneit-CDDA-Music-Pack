@@ -22,7 +22,7 @@
         "shuffle": true,
         "files": [
           { "file": "music/kaelinbougneit-CDDA-Title1.ogg", "volume": 90 },
-          { "file": "music/kaelinbougneit-CDDA-Title2.ogg", "volume": 80 }
+          { "file": "music/kaelinbougneit-CDDA-Title2.ogg", "volume": 90 }
         ]
       }
     ]
@@ -35,7 +35,7 @@
         "shuffle": true,
         "files": [
           { "file": "music/kaelinbougneit-CDDA-Title1.ogg", "volume": 90 },
-          { "file": "music/kaelinbougneit-CDDA-Title2.ogg", "volume": 80 }
+          { "file": "music/kaelinbougneit-CDDA-Title2.ogg", "volume": 90 }
         ]
       }
     ]
