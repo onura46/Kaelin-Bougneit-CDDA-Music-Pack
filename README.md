@@ -6,3 +6,5 @@ The background tracks (inspired by Lustmord, zoviet*france, and SleepResearch_Fa
 
 You can find other ambient music on my Bandcamp page: https://kaelinbougneit.bandcamp.com/
 Other music of mine can be found on my label: https://music.subviolet.com/music
+
+These tracks are licensed under the MIT License and can be used freely and without attribution (though attribution would be very welcome) for any application, commercial or non-commercial.
