@@ -16,11 +16,11 @@
     },
     {
       "type": "playlist",
-      "playlists": [ { "id": "sound", "shuffle": true, "files": [ { "file": "music/kaelinbougneit-CDDA-Title1.ogg", "volume": 70 } ] } ]
+      "playlists": [ { "id": "sound", "shuffle": true, "files": [ { "file": "music/kaelinbougneit-CDDA-Title1.ogg", "volume": 90 } ] } ]
     },
     {
       "type": "playlist",
-      "playlists": [ { "id": "mp3", "shuffle": true, "files": [ { "file": "music/kaelinbougneit-CDDA-Title1.ogg", "volume": 70 } ] } ]
+      "playlists": [ { "id": "mp3", "shuffle": true, "files": [ { "file": "music/kaelinbougneit-CDDA-Title1.ogg", "volume": 90 } ] } ]
     }
   ]
   
