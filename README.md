@@ -15,7 +15,7 @@ The background tracks *(inspired by Lustmord, zoviet france, and SleepResearch_F
 
 ## License/Links
 
-These tracks are licensed under the Unlicense and can be used freely and without attribution (though attribution would be very welcome) for any application, commercial or non-commercial.
+These tracks are licensed under CC0 and can be used freely and without attribution (though attribution would be very welcome) for any application, commercial or non-commercial. Please read the license for more details.
 
 You can find other ambient music on my Bandcamp page: https://kaelinbougneit.bandcamp.com/
 
