@@ -12,7 +12,9 @@
           { "file": "music/kaelinbougneit-CDDA6.ogg", "volume": 30 },
           { "file": "music/kaelinbougneit-CDDA10.ogg", "volume": 30 },
           { "file": "music/kaelinbougneit-CDDA11.ogg", "volume": 30 },
-          { "file": "music/kaelinbougneit-CDDA12.ogg", "volume": 30 }
+          { "file": "music/kaelinbougneit-CDDA12.ogg", "volume": 30 },
+          { "file": "music/kaelinbougneit-CDDA13.ogg", "volume": 30 },
+          { "file": "music/kaelinbougneit-CDDA14.ogg", "volume": 30 }
         ]
       }
     ]
