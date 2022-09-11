@@ -2,7 +2,7 @@
 
 This music pack is designed for use with **Cataclysm: Dark Days Ahead**, a post-apocalyptic zombie survival game, found here: https://github.com/CleverRaven/Cataclysm-DDA.
 
-The background tracks *(inspired by Lustmord, zoviet france, and SleepResearch_Facility)* are designed to be as immersive and unobtrusive as possible. You can hear more melodic, foreground tracks *(pretty openly imitating Boards of Canada)* while listening to MP3 players in the game. It's still very WIP and will be updated occasionally in the future.
+There are a variety of beatless tracks, inspired by everyone from Lustmord, zoviet france, and SleepResearch_Facility, to Boards of Canada and early Current 93. They are designed to be as immersive and unobtrusive as possible. It's still very WIP and will be updated occasionally in the future.
 
 ## Installation
 
