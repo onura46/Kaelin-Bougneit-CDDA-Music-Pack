@@ -6,19 +6,19 @@
         "id": "title",
         "shuffle": true,
         "files": [
-          { "file": "music/kaelinbougneit-Boneseer.ogg", "volume": 50 },
-          { "file": "music/kaelinbougneit-Deep_Freeze_Facility.ogg", "volume": 50 },
-          { "file": "music/kaelinbougneit-Empty_World.ogg", "volume": 50 },
-          { "file": "music/kaelinbougneit-Forest_and_the_Trees_earlymix.ogg", "volume": 50 },
-          { "file": "music/kaelinbougneit-Government_Camp.ogg", "volume": 50 },
-          { "file": "music/kaelinbougneit-Isherwood_Theme.ogg", "volume": 40 },
-          { "file": "music/kaelinbougneit-Shaken_Breath.ogg", "volume": 50 },
-          { "file": "music/kaelinbougneit-Silent_Neighborhood.ogg", "volume": 50 },
-          { "file": "music/kaelinbougneit-The_Cosmic_Hum.ogg", "volume": 50 },
-          { "file": "music/kaelinbougneit-Meteor_Strike.ogg", "volume": 40 },
-          { "file": "music/kaelinbougneit-Rebuild.ogg", "volume": 50 },
-          { "file": "music/kaelinbougneit-Day_One_Theme.ogg", "volume": 40 },
-          { "file": "music/kaelinbougneit-Electric_Sky.ogg", "volume": 40 }
+          { "file": "music/kaelinbougneit-Boneseer.ogg", "volume": 80 },
+          { "file": "music/kaelinbougneit-Deep_Freeze_Facility.ogg", "volume": 80 },
+          { "file": "music/kaelinbougneit-Empty_World.ogg", "volume": 80 },
+          { "file": "music/kaelinbougneit-Forest_and_the_Trees_earlymix.ogg", "volume": 80 },
+          { "file": "music/kaelinbougneit-Government_Camp.ogg", "volume": 80 },
+          { "file": "music/kaelinbougneit-Isherwood_Theme.ogg", "volume": 70 },
+          { "file": "music/kaelinbougneit-Shaken_Breath.ogg", "volume": 80 },
+          { "file": "music/kaelinbougneit-Silent_Neighborhood.ogg", "volume": 80 },
+          { "file": "music/kaelinbougneit-The_Cosmic_Hum.ogg", "volume": 80 },
+          { "file": "music/kaelinbougneit-Meteor_Strike.ogg", "volume": 70 },
+          { "file": "music/kaelinbougneit-Rebuild.ogg", "volume": 80 },
+          { "file": "music/kaelinbougneit-Day_One_Theme.ogg", "volume": 70 },
+          { "file": "music/kaelinbougneit-Electric_Sky.ogg", "volume": 70 }
         ]
       }
     ]
