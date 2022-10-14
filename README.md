@@ -7,10 +7,10 @@ There are a variety of beatless tracks, inspired by everyone from Lustmord, zovi
 ## Installation
 
 1. Download this repo. 
-2. Find your CDDA folder. If you're using a launcher, this may be in your Documents (Windows) or ~/.cataclysm-dda/ (Linux). Otherwise it's the folder you launch CDDA from. 
-3. Find your current in-game soundpack and navigate to its associated folder (usually something like data/sound/Basic <- Basic is the default).
+2. Find your CDDA folder. If you're using a launcher, this may be in your Documents (Windows) or `~/.cataclysm-dda/` (Linux). Otherwise it's the folder you launch CDDA from. 
+3. Find your current in-game soundpack and navigate to its associated folder (usually something like `data/sound/Basic` <- Basic is the default).
 4. (Optional) Back up your soundpacks.
-5. Delete your current 'musicset.json', if you have one. Optionally, you may delete any associated files listed in it. If you use a custom soundpack, it's likely all of this is found in a 'music' folder for your convenience. 
+5. Delete your current `musicset.json`, if you have one. Optionally, you may delete any associated files listed in it. If you use a custom soundpack, it's likely all of this is found in a `music` folder for your convenience. 
 6. Paste the contents of this repo into the soundpack. This music pack is now integrated with your chosen soundpack.
 
 ## License/Links
