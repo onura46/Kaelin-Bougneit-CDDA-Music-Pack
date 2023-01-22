@@ -13,12 +13,12 @@
           { "file": "music/kaelinbougneit-Government_Camp.ogg", "volume": 80 },
           { "file": "music/kaelinbougneit-Isherwood_Theme.ogg", "volume": 80 },
           { "file": "music/kaelinbougneit-Shaken_Breath.ogg", "volume": 65 },
-          { "file": "music/kaelinbougneit-Silent_Neighborhood.ogg", "volume": 80 },
           { "file": "music/kaelinbougneit-The_Cosmic_Hum.ogg", "volume": 65 },
           { "file": "music/kaelinbougneit-Meteor_Strike.ogg", "volume": 65 },
           { "file": "music/kaelinbougneit-Rebuild.ogg", "volume": 80 },
           { "file": "music/kaelinbougneit-Day_One_Theme.ogg", "volume": 80 },
-          { "file": "music/kaelinbougneit-Electric_Sky.ogg", "volume": 70 }
+          { "file": "music/kaelinbougneit-Electric_Sky.ogg", "volume": 70 },
+          { "file": "music/kaelinbougneit-Last_Man_On_Earth.ogg", "volume": 70 }
         ]
       }
     ]
