@@ -1,6 +1,6 @@
 # Kaelin Bougneit CDDA Music Pack
 
-This music pack is designed for use with **Cataclysm: Dark Days Ahead**, a post-apocalyptic zombie survival game, found here: https://github.com/CleverRaven/Cataclysm-DDA.
+This original music pack is designed for use with **Cataclysm: Dark Days Ahead**, a post-apocalyptic zombie survival game, found here: https://github.com/CleverRaven/Cataclysm-DDA.
 
 There are a variety of beatless tracks, inspired by everyone from Lustmord, zoviet france, and SleepResearch_Facility, to Boards of Canada and early Current 93. They are designed to be as immersive and unobtrusive as possible. It's still very WIP and will be updated occasionally in the future.
 
