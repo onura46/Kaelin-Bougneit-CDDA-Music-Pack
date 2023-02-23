@@ -13,9 +13,13 @@ There are a variety of beatless tracks, inspired by everyone from Lustmord, zovi
 5. Delete your current `musicset.json`, if you have one. Optionally, you may delete any associated files listed in it. If you use a custom soundpack, it's likely all of this is found in a `music` folder for your convenience. 
 6. Paste the contents of this repo into the soundpack. This music pack is now integrated with your chosen soundpack.
 
-## License/Links
+## License
 
-These tracks are licensed under CC0 and can be used freely and without attribution (though attribution would be very welcome!) for any application, commercial or non-commercial. Please read the license for more details.
+These tracks are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. You are free to share or adapt them for any work, even a commercial one. However, you must attribute Kaelin Bougneit and indicate if changes were made. You must also distribute this work under an identical or compatible license.
+
+This music pack is made to be safe for streamers and content creators in perpetuity. These tracks were briefly licensed under a CC0 license - and I still personally prefer more copyleft licenses - however I wish to retain the right to go after anyone abusing Content ID systems and this updated license allows for that. Please read the license for more details and contact me if you have specific questions about this change.
+
+## Links
 
 You can find other ambient music on my Bandcamp page: https://kaelinbougneit.bandcamp.com/
 
