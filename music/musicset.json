@@ -8,7 +8,7 @@
         "files": [
           { "file": "music/kaelinbougneit-Boneseer.ogg", "volume": 80 },
           { "file": "music/kaelinbougneit-Deep_Freeze_Facility.ogg", "volume": 65 },
-          { "file": "music/kaelinbougneit-Empty_World.ogg", "volume": 80 },
+          { "file": "music/kaelinbougneit-Empty_World.ogg", "volume": 75 },
           { "file": "music/kaelinbougneit-Forest_and_the_Trees_earlymix.ogg", "volume": 70 },
           { "file": "music/kaelinbougneit-Government_Camp.ogg", "volume": 80 },
           { "file": "music/kaelinbougneit-Isherwood_Theme.ogg", "volume": 80 },
@@ -18,7 +18,12 @@
           { "file": "music/kaelinbougneit-Rebuild.ogg", "volume": 80 },
           { "file": "music/kaelinbougneit-Day_One_Theme.ogg", "volume": 80 },
           { "file": "music/kaelinbougneit-Electric_Sky.ogg", "volume": 70 },
-          { "file": "music/kaelinbougneit-Last_Man_On_Earth.ogg", "volume": 70 }
+          { "file": "music/kaelinbougneit-Last_Man_On_Earth.ogg", "volume": 70 },
+          { "file": "music/kaelinbougneit-Abandoned_Cabin_in_the_Woods.ogg", "volume": 80 },
+          { "file": "music/kaelinbougneit-Amniotic_Cocoon.ogg", "volume": 80 },
+          { "file": "music/kaelinbougneit-Civil_Twilight_in_Orange_and_Black.ogg", "volume": 70 },
+          { "file": "music/kaelinbougneit-Moldy_Arabesque.ogg", "volume": 70 },
+          { "file": "music/kaelinbougneit-Subway_Tunnel.ogg", "volume": 80 }
         ]
       }
     ]
